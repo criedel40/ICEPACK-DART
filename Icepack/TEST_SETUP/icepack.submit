@@ -1,0 +1,5 @@
+#!/bin/csh -f 
+
+qsub -A UUSL0012 ./icepack.run
+echo "`date` ${0}: TEST_SETUP job submitted"  >> /glade/work/criedel/DAtests/CICE-SCM/Icepack/TEST_SETUP/README.case
+

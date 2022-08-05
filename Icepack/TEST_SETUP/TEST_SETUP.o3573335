@@ -1,0 +1,10 @@
+ 
+/var/spool/pbs/mom_priv/jobs/3573335.chadmin1.ib0.cheyenne.ucar.edu.SC:
+ 
+ICEPACK rundir is /glade/scratch/criedel/ICEPACK_RUNS/TEST_SETUP
+ICEPACK log file is icepack.runlog.220330-132114
+ICEPACK run started : Wed Mar 30 13:21:14 MDT 2022
+ICEPACK run finished: Wed Mar 30 13:21:17 MDT 2022
+ 
+ ICEPACK COMPLETED SUCCESSFULLY 
+done /var/spool/pbs/mom_priv/jobs/3573335.chadmin1.ib0.cheyenne.ucar.edu.SC

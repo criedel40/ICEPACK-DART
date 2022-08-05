@@ -1,0 +1,30 @@
+# icepack.setup settings
+
+setenv ICE_SANDBOX  /glade/work/criedel/DAtests/CICE-SCM/Icepack
+setenv ICE_SCRIPTS  /glade/work/criedel/DAtests/CICE-SCM/Icepack/configuration/scripts
+setenv ICE_CASENAME TEST_SETUP
+setenv ICE_CASEDIR  /glade/work/criedel/DAtests/CICE-SCM/Icepack/TEST_SETUP
+setenv ICE_MACHINE  cheyenne
+setenv ICE_ENVNAME  intel
+setenv ICE_MACHCOMP cheyenne_intel
+setenv ICE_RUNDIR   /glade/scratch/criedel/ICEPACK_RUNS/TEST_SETUP
+setenv ICE_GRID     col
+setenv ICE_NXGLOB   4
+setenv ICE_NTASKS   1
+setenv ICE_NTHRDS   1
+setenv ICE_BASELINE /glade/scratch/criedel/ICEPACK_BASELINE
+setenv ICE_BASEGEN  UnDeFiNeD
+setenv ICE_BASECOM  UnDeFiNeD
+setenv ICE_SPVAL    UnDeFiNeD
+setenv ICE_QUIETMODE  false
+setenv ICE_TEST     UnDeFiNeD
+setenv ICE_TESTNAME UnDeFiNeD
+setenv ICE_BFBCOMP  UnDeFiNeD
+setenv ICE_ACCOUNT  P00000000
+setenv ICE_QUEUE    share
+setenv ICE_COVERAGE false
+
+# set_env.col
+
+setenv ICE_GRID       col
+
