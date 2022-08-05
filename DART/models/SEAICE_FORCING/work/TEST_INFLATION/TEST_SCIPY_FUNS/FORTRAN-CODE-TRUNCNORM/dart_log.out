@@ -1,0 +1,238 @@
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 10 44
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  write_sec_data_real
+  routine: write_sec_data_real
+  message: writing variable "cdfs": NetCDF: Operation not allowed in define mode
+  message: ...
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 11 20
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 11 32
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  write_sec_data_real
+  routine: write_sec_data_real
+  message: writing variable "cdfs": NetCDF: Operation not allowed in define mode
+  message: ...
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 11 42
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  write_sec_data_real
+  routine: write_sec_data_real
+  message: writing variable "cdfs": NetCDF: Operation not allowed in define mode
+  message: ...
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 14 45
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  write_sec_data_real
+  routine: write_sec_data_real
+  message: writing variable "cdfs": NetCDF: Operation not allowed in define mode
+  message: ...
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 21 32
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  write_sec_data_real
+  routine: write_sec_data_real
+  message: writing variable "cdfs": NetCDF: Operation not allowed in define mode
+  message: ...
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 24 52
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 25 51
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 26  1
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  write_sec_data_real
+  routine: write_sec_data_real
+  message: writing variable "cdfs": NetCDF: Operation not allowed in define mode
+  message: ...
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 26 29
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 27  0
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  write_sec_data_real
+  routine: write_sec_data_real
+  message: writing variable "cdfs": NetCDF: Operation not allowed in define mode
+  message: ...
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 29 52
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  write_sec_data_real
+  routine: write_sec_data_real
+  message: writing variable "cdfs": NetCDF: Operation not allowed in define mode
+  message: ...
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 31 34
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 31 45
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 34 16
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 37 51
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 38 32
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  3 11  9 39 19
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 26 14 35 18
+ Program test_bounded_rhf
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 26 15  9 57
+ Program run_test_case
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 26 17  1 10
+ Program run_test_case
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 26 17  9 56
+ Program run_test_case
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process

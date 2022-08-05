@@ -1,0 +1,57 @@
+program test_bounded_rhf
+
+! Test specific cases for obs_increment_bounded_rhf
+use types_mod,       only : r8
+use assim_tools_mod, only : obs_increment_bounded_rhf,obs_increment_rank_histogram
+
+
+integer, parameter :: ens_size = 10
+integer, parameter :: num_tests = 3
+
+integer :: i, j
+real(r8) :: ens(ens_size), prior_var, obs, obs_var, obs_inc(ens_size)
+logical  :: is_bounded(4, 2)
+real(r8) :: bounds(2)
+real(r8) :: test_ens(ens_size, num_tests), test_obs(num_tests)
+real(r8) :: post_ens(ens_size),ens_mean
+
+! Check the 4 possible bounding cases: none, left, right, both
+is_bounded(1:4, 1) = (/.false., .true., .false., .true./)
+is_bounded(1:4, 2) = (/.false., .false., .true., .true./)
+
+! Create some ensembles and obs
+!is_bounded = .false.
+bounds = (/0.0_r8, 1.0_r8/)
+obs_var = 0.4
+test_obs(1) = 0.58
+test_obs(2) = 0.3
+test_obs(3) = 0.1
+test_ens(:, 1) = (/ 0.9, 0.912, 0.93, 0.984, 0.992, 0.95, 0.947, 0.96, 0.97, 0.973/)
+test_ens(:, 2) = test_ens(:, 1) / 2
+test_ens(:, 3) = 1 - test_ens(:, 1)
+! Three test for near the bottom, top, and middle
+! Would be better to test with arbitrary bounds eventually
+do j = 1, 1
+   do k = 1, 4
+      ens = test_ens(:, j)
+      obs = test_obs(j)
+      ens_mean = sum(ens)/size(ens)
+      prior_var = sum((ens - ens_mean)**2)/(size(ens)-1.0_r8)
+      !print*,ens_mean,prior_var
+      call obs_increment_bounded_rhf(ens, ens_size, prior_var, obs, obs_var, &
+         obs_inc,is_bounded(k, :), bounds)
+      !call obs_increment_rank_histogram(ens, ens_size, prior_var, obs, obs_var, &
+      !   obs_inc)
+      post_ens = ens + obs_inc
+      write(*, *) '------------------- test ' , j
+      write(*, *) 'bounds case ', k , 'Bounded ',is_bounded(k, :)
+      write(*, *) '         Mem       Obs                       Prior                      Post                   Increments'
+      do i = 1, ens_size
+         write(*, *) i, obs, ens(i), post_ens(i), obs_inc(i)
+      end do
+   
+   end do
+
+end do
+
+end program test_bounded_rhf

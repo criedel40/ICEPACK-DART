@@ -1,0 +1,152 @@
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 10 18 11
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : netcdf_utilities_mod.f90
+  routine: reading_in_data
+  message: opening file seaice_snow_forcings.nc: No such file or directory
+  message: ...
+ 
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 24 14
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: filter_cice_scm
+  message: missing filenames
+  message: ... must specify either "input_state_files" in the namelist,
+  message: ... or a "input_state_file_list" file containing a list of names
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 16 41
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: filter_cice_scm
+  message: missing filenames
+  message: ... must specify either "input_state_files" in the namelist,
+  message: ... or a "input_state_file_list" file containing a list of names
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  7 58  7
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: check_namelist_read
+  message:  INVALID NAMELIST ENTRY:  out_file_control = 'control_output.nc' in n
+ amelist model_nml
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8  3 19
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: check_namelist_read
+  message:  INVALID NAMELIST ENTRY:  out_file_control = 'control_output.nc' in n
+ amelist model_nml
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8  3 52
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: check_namelist_read
+  message:  INVALID NAMELIST ENTRY:  out_file_control = 'control_output.nc' in n
+ amelist model_nml
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8  5 11
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: check_namelist_read
+  message:  INVALID NAMELIST ENTRY:  out_file_control = 'control_output.nc' in n
+ amelist model_nml
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 11 29
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: check_namelist_read
+  message:  INVALID NAMELIST ENTRY:  out_file_control = 'control_output.nc' in n
+ amelist model_nml
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 21 35
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: check_namelist_read
+  message:  INVALID NAMELIST ENTRY:  out_file_control = 'control_output.nc' in n
+ amelist model_nml
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 25 15
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: check_namelist_read
+  message:  INVALID NAMELIST ENTRY:  out_file_control = 'control_output.nc' in n
+ amelist model_nml
+ 

@@ -1,0 +1,3097 @@
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 10 39 50
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : netcdf_utilities_mod.f90
+  routine: reading_in_data
+  message: opening file seaice_snow_forcings.nc: No such file or directory
+  message: ...
+ 
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 23 28
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: filter_cice_scm
+  message: missing filenames
+  message: ... must specify either "input_state_files" in the namelist,
+  message: ... or a "input_state_file_list" file containing a list of names
+ 
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 24  5
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: filter_cice_scm
+  message: missing filenames
+  message: ... must specify either "input_state_files" in the namelist,
+  message: ... or a "input_state_file_list" file containing a list of names
+ 
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 25 50
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 26 55
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 27 25
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 28  6
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 32 31
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: filter_cice_scm
+  message: missing filenames
+  message: ... must specify either "output_state_files" in the namelist,
+  message: ... or a "output_state_file_list" file containing a list of names
+ 
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 37 20
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: filter_cice_scm
+  message: missing filenames
+  message: ... must specify either "output_state_files" in the namelist,
+  message: ... or a "output_state_file_list" file containing a list of names
+ 
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 37 55
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 38 49
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 39  4
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 39 49
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 13 58 34
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14  0 34
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14  4 24
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14  4 54
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14  5 31
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14  5 54
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14  9 36
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14 10  6
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14 13 15
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14 14  1
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14 14 18
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14 32 38
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14 33 20
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14 37 34
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 14 39 14
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 10 41
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 11  9
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 12  6
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 13  6
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 13 38
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 14  0
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 14 22
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 14 38
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 15 11
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 23 47
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 25  5
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 40 15
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 43  8
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 45  5
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 59  8
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 15 59 41
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  0  6
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  0 41
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  1 19
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  1 50
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  2  1
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  2 10
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  2 35
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  2 48
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16  5  5
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 11 51
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 14 56
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 31 12
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 47  6
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 52 22
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 52 36
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 52 38
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 52 39
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 52 40
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 52 41
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 53 32
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 53 35
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 19 16 53 35
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  8 57 37
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  8 58  2
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  8 58 14
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  0  5
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  0 39
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  0 52
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  1 35
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  3 28
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  3 38
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  3 52
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  4 58
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9  6 20
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9 10 15
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9 10 27
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  4 20  9 11 46
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 42 15
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 45 30
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 46 53
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 48 11
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 54 44
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 55 53
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 57 19
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 58  9
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 58 46
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 59  6
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 10 59 59
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  0 17
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  0 28
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  1 10
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  2 47
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  3  3
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  3 27
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  6 20
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  6 46
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  7 11
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  9 13
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11  9 48
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 10 34
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 10 46
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 10 51
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 11  9
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 11 48
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 12 21
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 12 58
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 16  2
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 16 41
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 17  7
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 17 36
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 18 13
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 36  0
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 38  2
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 38 47
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 47 20
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 47 38
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 48  4
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 48 27
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 49 16
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 50 35
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 53 26
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 11 53 40
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 23 49
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 47  9
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 47 44
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 48 14
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 48 45
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 49  9
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 55 33
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 57  4
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 57 19
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 13 59 43
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 14  7 38
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 14 12  5
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 14 30 40
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 14 31 45
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 14 32 18
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15  4 24
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15  4 53
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ ERROR FROM:
+  source : sampling_error_correction_mod.f90
+  routine: read_sampling_error_correction:
+  message: File "sampling_error_correction_table.nc" not found in the current directory.
+  message: ... This file can be copied from this location in the DART distribution:
+  message: ...  "assimilation_code/programs/gen_sampling_err_table/work"
+ 
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15  5 13
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15  7 44
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15  7 59
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15  8 45
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15  9 47
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15 10 17
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15 11  4
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15 13  6
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15 13 53
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15 14 23
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15 17 59
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15 19 19
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 15 19 43
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 16 41 48
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 16 42 19
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 16 51 31
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 16 52 19
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5  6 16 53 59
+ Program filter_cice_scm
+ --------------------------------------
+
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  8 34 13
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  8 36 57
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  8 37 25
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  8 37 47
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  8 38 25
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  8 39 23
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9  8 14
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9  9 21
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 10  9
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 11 54
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 13 18
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 13 55
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 15 51
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 26 19
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 27  9
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 29 16
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 31  4
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 32 38
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 34 35
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 35 27
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 36  4
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 36 46
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 38 10
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 38 39
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 39 34
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 39 45
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 41 10
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 42  0
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 43  8
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 43 44
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16  9 44 30
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 10  5 14
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 10 19 24
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 10 20 32
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 10 22 40
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 10 23 54
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 10 24 45
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 10 26  0
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 12 24 19
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 12 27 24
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 12 48 30
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 12 49 12
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 12 50  9
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15  7 48
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15  8  3
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 10 19
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 11  2
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 12 14
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 13  1
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 13 49
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 16 48
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 22  2
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 22 46
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 23 25
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 24 34
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 25  8
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 25 32
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 27  8
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 28 14
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 31 13
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 32 23
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 32 59
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 33 55
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 34 18
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 38  5
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 38 45
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 40 31
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 40 49
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 43 39
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 44 17
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 16 15 46 13
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 15 56
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 33 40
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 35 24
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 38 23
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 42 37
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 45 11
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 45 52
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 46 59
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 47 52
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 49 44
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 52 15
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 52 42
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 54  2
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 55 13
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 57 44
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17  9 58 29
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 10  2 50
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 10  3 51
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 10  3 51
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 10 32  8
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 10 32  8
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 12 21 24
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ ERROR FROM:
+  source : utilities_mod.f90
+  routine: check_namelist_read
+  message:  INVALID NAMELIST ENTRY:  out_file_control = 'control_output.nc' in n
+ amelist model_nml
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 12 21 47
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 12 21 48
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 20 25 13
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 20 25 14
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22  0 31
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22  1 45
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22  1 45
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 17 33
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 17 33
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 18  9
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 18  9
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 18 45
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 18 45
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 19 26
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 20 12
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 21  6
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 17 22 21 27
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  6 58  6
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  6 59 22
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  6 59 52
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  7  0 31
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  7  1 34
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  7  2 35
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  7  3 12
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  7  4  2
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  7  4  2
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  7  4 57
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  7  4 58
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 12 36
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 12 37
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 21 34
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 21 34
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 22 41
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 22 41
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 23 22
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 23 22
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 24 59
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 25  0
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 29  3
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 29  3
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 32 54
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 32 54
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 52  6
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18  8 52  6
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 12 28 30
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 12 28 31
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 12 29 39
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 12 29 55
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 12 29 55
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 12 31  1
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 12 31  1
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 13 16 46
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 13 17 16
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 13 19 28
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 13 19 29
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 13 21  6
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 13 21  7
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 13 21 13
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 18 13 21 14
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 26 14
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 26 15
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 26 26
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 26 26
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 27 27
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 27 28
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 33 54
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 33 54
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 34 56
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 34 56
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 34 58
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 34 58
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 46 45
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 46 46
+ Program filter_cice_scm
+ --------------------------------------
+ 
+ 
+ --------------------------------------
+ Starting ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 47 18
+ Program filter_cice_scm
+ --------------------------------------
+ 
+  set_nml_output Echo NML values to log file only
+  initialize_mpi_utilities: Running single process
+  assim_tools_init: Using Sampling Error Correction
+ 
+ --------------------------------------
+ Finished ... at YYYY MM DD HH MM SS = 
+                 2022  5 19  8 47 19
+ Program filter_cice_scm
+ --------------------------------------
+ 

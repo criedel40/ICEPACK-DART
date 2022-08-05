@@ -1,0 +1,35 @@
+ obs_sequence
+obs_type_definitions
+           2
+          12 SAT_SEAICE_AGREG_CONCENTR      
+          15 SAT_SEAICE_AGREG_THICKNESS     
+  num_copies:            2  num_qc:            1
+  num_obs:            2  max_num_obs:            2
+observations                                                    
+truth                                                           
+Quality Control                                                 
+  first:            1  last:            2
+ OBS            1
+  0.970155176445824     
+  0.999999922554113     
+  0.000000000000000E+000
+          -1           2          -1
+obdef
+loc3d
+     0.000000000000000         1.553343034274950         0.000000000000000     -1
+kind
+          12
+     0     149750
+  2.117702399365413E-002
+ OBS            2
+  0.832629634213415     
+  0.952510987363781     
+  0.000000000000000E+000
+           1          -1          -1
+obdef
+loc3d
+     0.000000000000000         1.553343034274950         0.000000000000000     -1
+kind
+          15
+     0     149750
+  1.000000000000000E-002

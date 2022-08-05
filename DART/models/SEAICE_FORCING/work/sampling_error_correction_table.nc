@@ -1,0 +1,1 @@
+../../../assimilation_code/programs/gen_sampling_err_table/work/sampling_error_correction_table.nc
